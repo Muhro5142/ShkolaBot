@@ -14,6 +14,7 @@ csv
 telebot
 matplotlib
 numpy
+request
 
 # Архитектура Проекта 
 Class parsing(csv+bs4)
