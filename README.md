@@ -6,7 +6,7 @@ https://pb.amalnet.k12.il/%d7%9e%d7%a2%d7%a8%d7%9b%d7%95%d7%aa-%d7%95%d7%a9%d7%9
 <td class="TTCell" nowrap="">
 				<table width="100%"></table><div class="TTLesson"><b>מדעי המחשב ב' - תכנות מונחה עצמים</b>&nbsp;&nbsp;(A27 מ.ב.מחשבים)<br>סטפ טובי</div><div class="TTLesson"><b>מדעי המחשב ב' - תכנות מונחה עצמים</b>&nbsp;&nbsp;(A26 מ.א.מחשבים)<br>מור גולן</div>
 			</td>
-## Инструменты для реализации
+# Инструменты для реализации
 bs4
 csv
 telebot
