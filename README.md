@@ -17,5 +17,7 @@ numpy
 
 # Архитектура Проекта 
 Class parsing(csv+bs4)
+
 Class Info2Table(info from parsing to table)
+
 Class Telebot(schedule+Bot Architecture)
