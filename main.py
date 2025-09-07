@@ -3,7 +3,7 @@ import info2table
 import telebot
 
 
-TOKEN = "7173015902:AAG_lEuv7U9o-7T8yrz-b_cwgzrfnKbaO4U"
+TOKEN = "YOUR TOKEN HERE"
 
 
 bot = telebot.TeleBot(TOKEN)
