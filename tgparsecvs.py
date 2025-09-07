@@ -5,7 +5,7 @@ from apscheduler.schedulers.background import BackgroundScheduler
 from apscheduler.triggers.cron import CronTrigger
 
 # Replace with your bot's token
-TELEGRAM_BOT_TOKEN = "7261741533:AAEHEitc-Xf8kqWXGiLHRjggT6M0g_4voLI"
+TELEGRAM_BOT_TOKEN = "YOUR TOKEN HERE"
 
 # Path to the CSV file
 CSV_FILE_PATH = "formatted_calendar.csv"
